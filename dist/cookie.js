@@ -8,6 +8,7 @@
  * Licensed under the MIT license.
  * 
  * add description
+ * by yyc
  */
 
 (function (global, factory) {
