@@ -6,6 +6,8 @@
  * https://github.com/jaywcjlove/cookie.js
  * 
  * Licensed under the MIT license.
+ * 
+ * add description
  */
 
 (function (global, factory) {
